@@ -1,0 +1,10 @@
+Datasets:
+https://drive.google.com/drive/folders/1tT5pUWp-GRt4Bihqi1sFsnzVwEIiKds0?usp=sharing
+
+CnnandDensenet, the models for each dataset:
+https://drive.google.com/drive/folders/1_v35iWkxwI1SU3MgUlryuDZzHKJ-qCA2?usp=sharing
+
+Chest xrays, the original dataset:
+https://drive.google.com/file/d/1bjam19cHNR78sYK8RxzM6V7JaRiK1CQI/view?usp=sharing
+Also here:
+https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis
